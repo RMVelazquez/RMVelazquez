@@ -1,16 +1,26 @@
-## Hi there 👋
+👋 Hi, I'm Romina 
 
-<!--
-**RMVelazquez/RMVelazquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst focused on Operations and Customer Experience Analytics. 
 
-Here are some ideas to get you started:
+I work with Python, SQL, Excel, and BI tools to transform raw data into actionable insights that improve business performance and operational efficiency. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+With a strong background in hospitality and logistics operations, I bring a practical, KPI-driven approach to data analysis, connecting technical work directly to real-world business outcomes. 
+
+🔧 Tools & Skills 
+
+- Python (Pandas, NumPy, data analysis)
+- SQL (data querying, joins, aggregations)
+- Excel (cleaning, reporting, KPI tracking)
+- Tableau (dashboards & data visualization)
+- Data cleaning, exploratory analysis, and reporting
+
+📊 Focus Areas 
+
+- Operations analytics
+- Customer experience (CX) analytics
+- Process optimization
+- Performance and KPI analysis 
+
+📫 Let’s connect 
+
+LinkedIn: https://www.linkedin.com/in/romivelazquez21/
