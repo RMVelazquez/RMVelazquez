@@ -1,26 +1,29 @@
-👋 Hi, I'm Romina 
+Hi, I'm Romina 👋
 
-Data Analyst focused on Operations and Customer Experience Analytics. 
+Operations professional transitioning into Reporting, Operations, and Business Analyst roles, combining 5+ years of hands-on experience in hospitality and logistics — including team leadership and cross-functional coordination — with data analysis skills built through a Data Analytics bootcamp.
 
-I work with Python, SQL, Excel, and BI tools to transform raw data into actionable insights that improve business performance and operational efficiency. 
+I work with Python, SQL, and Excel to clean, structure, and analyze data — bringing a practical, KPI-driven lens shaped by real operational experience, including direct, hands-on use of hotel PMS systems like Opera Cloud.
 
-With a strong background in hospitality and logistics operations, I bring a practical, KPI-driven approach to data analysis, connecting technical work directly to real-world business outcomes. 
+🔧 Tools & Skills
 
-🔧 Tools & Skills 
+* Python (Pandas, NumPy, data analysis)
+* SQL (querying, joins, aggregations)
+* Excel (cleaning, reporting, KPI tracking)
+* Data cleaning, exploratory analysis, and reporting
+* Team leadership & cross-functional coordination
+* Hands-on experience with operational systems: Opera Cloud, Mews, Salesforce
 
-- Python (Pandas, NumPy, data analysis)
-- SQL (data querying, joins, aggregations)
-- Excel (cleaning, reporting, KPI tracking)
-- Tableau (dashboards & data visualization)
-- Data cleaning, exploratory analysis, and reporting
+📊 Focus Areas
 
-📊 Focus Areas 
+* Operations analytics
+* Reporting & business analysis
+* Customer experience (CX) analytics
+* Process optimization & KPI tracking
 
-- Operations analytics
-- Customer experience (CX) analytics
-- Process optimization
-- Performance and KPI analysis 
+🌱 Currently learning
 
-📫 Let’s connect 
+* Power BI
+* Advancing my SQL skills
 
+📫 Let's connect
 LinkedIn: https://www.linkedin.com/in/romivelazquez21/
